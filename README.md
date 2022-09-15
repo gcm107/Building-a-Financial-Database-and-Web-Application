@@ -38,7 +38,7 @@ voila <directory to the notebook>
 ----
 
 
-![Webapp_side]('Images/bokeh_plot.png')
+![command]('command.png')
 
 ----
 
