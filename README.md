@@ -30,7 +30,10 @@ conda list voila
 
 ## Usage
 
-To use this analyzer open the folder o
+To use this analyzer type the following into the termial:
+```
+voila <directory to the notebook>
+```
 
 ----
 
