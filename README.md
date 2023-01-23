@@ -1,4 +1,4 @@
-# Module_7_Challenge
+# Web app for financial databases
 Using SQL with pandas for portfolio analysis, and then deploying it as a web app.
 
 
